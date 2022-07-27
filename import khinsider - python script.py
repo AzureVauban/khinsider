@@ -1,4 +1,7 @@
+from tabnanny import verbose
 import khinsider
-# khinsider.download('super-mario-3d-world-soundtrack')
+verbose = 1==1
+khinsider.download('mario-kart-ds')
+print('Finished Downloading Album, please move files into a folder to avoid disorganization within source folder')
 # this is a test script 
 # https://downloads.khinsider.com/
