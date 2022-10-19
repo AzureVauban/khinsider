@@ -1,7 +1,8 @@
-from tabnanny import verbose
 import khinsider
-verbose = 1==1
-khinsider.download('mario-kart-ds')
-print('Finished Downloading Album, please move files into a folder to avoid disorganization within source folder')
+print('\x1B[31mProgram has begun Running, Please wait until the end message in appears\x1B[37m')
+khinsider.download('terraria-calamity-the-tale-of-a-cruel-world')
+print('\x1B[32mFinished Downloading Album, please move files into a folder to avoid disorganization within source folder\x1B[0m')
 # this is a test script 
+#* https://downloads.khinsider.com/game-soundtracks/album/super-smash-bros.-anthology-vol.-01-super-smash-bros
 # https://downloads.khinsider.com/
+#* https://downloads.khinsider.com/game-soundtracks/album/jet-set-radio-future-original-soundtrack
